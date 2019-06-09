@@ -1,0 +1,12 @@
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\bin\Debug\TelegramBotExamples.exe.config
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\bin\Debug\TelegramBotExamples.exe
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\bin\Debug\TelegramBotExamples.pdb
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\bin\Debug\Telegram.Bot.dll
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\bin\Debug\Telegram.Bot.xml
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\obj\Debug\TelegramBotExamples.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\obj\Debug\TelegramBotExamples.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\obj\Debug\TelegramBotExamples.csproj.CopyComplete
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\obj\Debug\TelegramBotExamples.exe
+C:\Users\Daniel\source\repos\TelegramBotExamples\TelegramBotExamples\obj\Debug\TelegramBotExamples.pdb
