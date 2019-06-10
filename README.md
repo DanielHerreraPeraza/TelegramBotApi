@@ -22,9 +22,10 @@ Un chatbot de Telegram tiene estas y muchas más funciones, ya que sirve prácti
 6. Para evitar errores de compilación es conveniente copiar a la carpeta Debug de nuestro proyecto) los ficheros DLL y XML, o bien podemos descargar o bien instalar con NuGet, como hemos indicado anteriormente:
   - `Telegram.Bot.dll`
   - `Newtonsoft.Json.dll`
-7. Se agregarán la referencia a estos dos ficheros DLL desde nuestro proyecto Visual C#
-.
+7. Se agregarán la referencia a estos dos ficheros DLL desde nuestro proyecto Visual C#.
+![alt text](https://github.com/DanielHerreraPeraza/TelegramBotApi/blob/master/Instruccion_1.jpg)
 8. Se irán a «Examinar» y seleccionaremos los ficheros DLL Telegram.Bot.dll y Newtonsoft.Json.dll
+![alt text](https://github.com/DanielHerreraPeraza/TelegramBotApi/blob/master/Instruccion_2.jpg)
 
 
 A partir de ahora se podrá programar la aplicación C# que escuchará y leerá los mensajes que se envíen al bot de Telegram (con /xxx si se ha marcado la opción de seguridad correspondiente, o  si se nombra al bot con @nombre_bot o  todos los mensajes de los grupos a los que esté unido si así se ha indicado en la configuración, opción /setprivacy del bot).
