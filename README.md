@@ -7,10 +7,11 @@ Un chatbot o robot conversacional es un programa informático creado por tercero
 Los bots tienen distintas  funciones, entre ellas se encuentran:
 - `Dar notificaciones personalizadas y noticias instantáneas acerca de lo que ocurre día a día, es decir, funciona como un periódico inteligente, dando contenido que recién se publique.`
 - `Permite un mejor servicio a los chats de Telegram, permitiendo la integración de servicios externos. Algunos ejemplos son: Gmail Bot, Image Bot, IMD Bot, Wiki Bot, Music Bot, YouTube Bot, entre otros.`
-- `Acepta que los usuarios de Telegram realicen pagos, comportándose como un medio que permite el la comunicación entre el usuario y los proveedores que admiten los pagos, esto quiere decir, que los chat no tienen acceso a los datos que envíen o escriban es estos chat, es decir, no manejan documentación confidencial. Un ejemplo seria, Shop Bot.`
-- `Permite propocionar alertas sobre pronósticos del tiempo, traducciones, letras de música, archivos de imagen, enlaces url, entre otros servicios. Ejemplos de estos serían: Markdown bot, Sticker bot, Like bot.`
+- `Acepta que los usuarios de Telegram realicen pagos, comportándose como un medio que permite la comunicación entre el usuario y los proveedores que admiten los pagos, esto quiere decir, que los chat no tienen acceso a los datos que envíen o escriban es estos chat, es decir, no manejan documentación confidencial. Un ejemplo seria, Shop Bot.`
+- `Permite proporcionar alertas sobre pronósticos del tiempo, traducciones, letras de música, archivos de imagen, enlaces url, entre otros servicios. Ejemplos de estos serían: Markdown bot, Sticker bot, Like bot.`
 - `Permite crear juegos en solitario o multijugador, ofreciendo que se pueda visualizar con HTML5, lo que permite que la experiencia sea más interactiva y su interfaz gráfica sea más compacta. Se pueden mencionar dos de estos bots: Game Bot, Gamee.`
 - `Puede servir como un medio para poder conectar con otras personas, este bot procura a buscar a usuarios que  tengan mismos comunes o aproximados intereses y permite que estos usuarios se puedan comunicar por medio de Telegram.`
+
 Un chatbot de Telegram tiene estas y muchas más funciones, ya que sirve prácticamente para facilitarle la vida al usuario que lo utilice.
 
 ## Requisitos para crear un bot.
